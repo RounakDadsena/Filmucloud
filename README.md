@@ -13,7 +13,7 @@ These extensions are Free: You can use, study, share and modify it at your will.
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) version 3 or later published by the Free Software Foundation.
 
 
-### DMCA
+### DMCA 🙏🏻
 We hereby issue this notice to inform you that these extensions just function like an ordinary browser (like your browser) that fetch video files from internet,
 and do not violate the provisions of the Digital Millennium Copyright Act (DMCA). 
 The Content these extensions may access is not hosted by us or the Cloudstream 3 application but the websites they are browsing in their autonomous mode. It is sole responsibility 
